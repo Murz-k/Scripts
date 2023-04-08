@@ -1,0 +1,1 @@
+for ($num = 70998 ; $num -ge 68556 ; $num--){$j= (get-childitem).count+1; "curl 'url_goes_here{0:00}' -o '{1}.mp3'" -f $num, $j | Invoke-Expression;  }
