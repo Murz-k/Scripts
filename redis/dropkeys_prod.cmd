@@ -1,1 +1,1 @@
-dropkeys 172.17.21.128 6379 %1
+dropkeys {ip} {port} %1
