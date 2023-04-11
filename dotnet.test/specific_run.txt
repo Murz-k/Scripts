@@ -1,0 +1,1 @@
+dotnet test --logger "console;verbosity=detailed" --filter FullyQualifiedName~Namespace.Class.Method  --settings my.runsettings
