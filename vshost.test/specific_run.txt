@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" GRT.Services.DriverDutyMode.DriverDutyModeCTests.dll /Settings:"D:\TestProjects\GRT.Services.DriverDutyMode\GRT.Services.DriverDutyMode.DriverDutyModeCTests\Run Settings\test.runsettings"
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" test.dll /Settings:"path_to\test.runsettings"
